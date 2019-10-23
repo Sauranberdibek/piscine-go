@@ -1,4 +1,4 @@
-ackage piscine
+package piscine
 
 func IsPrintable(str string) bool {
 	r := []rune(str)
